@@ -15,10 +15,10 @@ This repository contains an end-to-end data analysis project built using **SQL**
 
 1. [Dataset (fields & description)](#dataset)
 2. [Tech stack](#tech-stack)
-3. [Project workflow — step by step](#project-workflow)
-4. [SQL Questions](#sql-queries)
-5. [Power BI  (Questions)](#power-bi)
-6. [Power BI  (Dashboard & visual)](#power-bi)
+3. [Project workflow — step by step](#Project-workflow-—-step-by-step)
+4. [SQL Questions](#SQL-Questions)
+5. [Power BI  (Questions)](#Power-BI:-(Questions))
+6. [Power BI  (Dashboard & visual)](#Power-BI:-Dashboards-&-visuals)
 
 
 ---
@@ -98,39 +98,39 @@ Columns provided in the dataset and brief descriptions (use these when reading/c
 
 
 
-### 1. Retrieve all successful bookings
+### 1. Retrieve all successful bookings.
 
 
 
-### 2. Find the average ride distance for each vehicle type
+### 2. Find the average ride distance for each vehicle type.
 
 
 
-### 3. Get the total number of cancelled rides by customers
+### 3. Get the total number of cancelled rides by customers.
 
 
 
-### 4. Top 5 customers who booked the highest number of rides
+### 4. Top 5 customers who booked the highest number of rides.
 
 
-### 5. Number of rides cancelled by drivers due to personal and car-related issues
-
-
-
-### 6. Max and min driver ratings for Prime Sedan bookings
+### 5. Number of rides cancelled by drivers due to personal and car-related issues.
 
 
 
-### 7. Retrieve all rides where payment was made using UPI
-
-
-### 8. Average customer rating per vehicle type
+### 6. Max and min driver ratings for Prime Sedan bookings.
 
 
 
-### 9. Total booking value of rides completed successfully
+### 7. Retrieve all rides where payment was made using UPI.
 
-### 10. List all incomplete rides along with the reason
+
+### 8. Average customer rating per vehicle type.
+
+
+
+### 9. Total booking value of rides completed successfully.
+
+### 10. List all incomplete rides along with the reason.
 
 
 
@@ -151,35 +151,49 @@ Columns provided in the dataset and brief descriptions (use these when reading/c
 4. **Average Customer Ratings by Vehicle Type** : A column chart showing the average customer ratings for different vehicle types.
 
 
-5. **Cancelled Rides Reasons** : A bar chart that highlights the common reasons for ride cancellations by customers and drivers
+5. **Cancelled Rides Reasons** : A bar chart that highlights the common reasons for ride cancellations by customers and drivers.
 
-6. **Revenue by Payment Method** : A stacked bar chart displaying total revenue based on payment methods (Cash, UPI, Credit Card, etc.)
+6. **Revenue by Payment Method** : A stacked bar chart displaying total revenue based on payment methods (Cash, UPI, Credit Card, etc.).
 
 7. **Top 5 Customers by Total Booking Value** : A leaderboard visual listing customers who have spent the most on bookings.
 8. **Ride Distance Distribution Per Day** : A histogram or scatter plot showing the distribution of ride distances for different Dates.
 
 9. **Driver Ratings Distribution** : A box plot visualizing the spread of driver ratings for different vehicle types.
 
-10. **Customer vs Driver Ratings** : A scatter plot comparing customer and driver ratings for each completed ride, analyzing correlations
+10. **Customer vs Driver Ratings** : A scatter plot comparing customer and driver ratings for each completed ride, analyzing correlations.
 
 ## Power BI: Dashboards & visuals 
 1. **Overall**
 - Ride Volume Over Time
 - Booking Status Breakdown
+
+  
   <img width="1309" height="737" alt="Screenshot 2025-09-12 203348" src="https://github.com/user-attachments/assets/667d9256-749f-4fc2-8e88-126ae0e3acc4" />
 
 2. **Vehicle Type**
 - Top 5 Vehicle Types by Ride Distance
+
+  <img width="1309" height="735" alt="Vechile Type" src="https://github.com/user-attachments/assets/39add247-8558-40cd-adaf-a7a2c1f7b832" />
+
 3. **Revenue**
 - Revenue by Payment Method
 - Top 5 Customers by Total Booking Value
 - Ride Distance Distribution Per Day
+
+  <img width="1292" height="734" alt="Revenue" src="https://github.com/user-attachments/assets/d9a45766-6b2e-4193-92fc-ed005db987ef" />
+
 4. **Cancellation**
 - Cancelled Rides Reasons (Customer)
 - cancelled Rides Reasons(Drivers)
+
+  <img width="1275" height="734" alt="Cancellation" src="https://github.com/user-attachments/assets/d80188d5-b27c-4067-b06c-b99907cfd502" />
+
 5. **Ratings**
 - Driver Ratings
 - Customer Ratings
+
+  <img width="1312" height="734" alt="Ratings" src="https://github.com/user-attachments/assets/68b10aee-ebf2-4399-97fe-0d261ffb5403" />
+
 
 
 
