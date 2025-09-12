@@ -16,9 +16,9 @@ This repository contains an end-to-end data analysis project built using **SQL**
 1. [Dataset (fields & description)](#dataset)
 2. [Tech stack](#tech-stack)
 3. [Project workflow — step by step](#Project-workflow-—-step-by-step)
-4. [SQL Questions](#SQL-Questions)
-5. [Power BI  (Questions)](#Power-BI:-(Questions))
-6. [Power BI  (Dashboard & visual)](#Power-BI:-Dashboards-&-visuals)
+4. [SQL Questions](#sql-questions)
+5. [Power BI: (Questions)](#power-bi-questions)
+6. [Power BI: Dashboards & visuals](#power-bi-dashboards--visuals)
 
 
 ---
@@ -195,5 +195,7 @@ Columns provided in the dataset and brief descriptions (use these when reading/c
   <img width="1312" height="734" alt="Ratings" src="https://github.com/user-attachments/assets/68b10aee-ebf2-4399-97fe-0d261ffb5403" />
 
 
+
+# Thank You
 
 
